@@ -1,4 +1,4 @@
---malo je ocajno formatirano jer sam kopirao sa wa ali bare with me
+--malo je ocajno formatirano jer sam kopirao sa wa ali bear with me
 
 
 -- Code your design here
